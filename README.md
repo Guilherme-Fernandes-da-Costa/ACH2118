@@ -1,9 +1,14 @@
-# ACH2118
+# ACH2118 - Introdução ao Processamento de Língua Natural
 
-Esse repositório foi criado para armazenar os EPs referentes a disciplina ACH2118 ( Introdução ao Processamento de Lingua Natural)
-<br>
-Componentes:
-Daniel Ye
-Guilherme Fernandes da Costa
-Matheus Silva Lopes da Costa
-Rafael de Sousa Muniz
+Este repositório destina-se ao armazenamento e organização dos Exercícios Práticos (EPs) desenvolvidos durante a disciplina **ACH2118 - Introdução ao Processamento de Língua Natural**.
+
+## 👥 Integrantes
+
+* **Daniel Ye**
+* **Guilherme Fernandes da Costa**
+* **Matheus Silva Lopes da Costa**
+* **Rafael de Sousa Muniz**
+
+---
+
+> *Repositório acadêmico voltado para atividades e projetos de NLP (Natural Language Processing).*
